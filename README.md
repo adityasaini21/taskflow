@@ -301,9 +301,7 @@ Admins can promote members to Admin when adding them via the Members tab.
 
 
 
-| Dashboard | Projects | Tasks |
-|---|---|---|
-| ![Dashboard](#) | ![Projects](#) | ![Tasks](#) |
+
 
 ---
 
@@ -311,8 +309,8 @@ Admins can promote members to Admin when adding them via the Members tab.
 
 **Aditya Saini**
 
-[![GitHub](https://github.com/adityasaini21)
-[![LinkedIn](https://www.linkedin.com/in/aditya-saini-12430a255/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/adityasaini21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-saini-12430a255/)
 
 ---
 
